@@ -1,0 +1,25 @@
+{
+	"name": "expanse-pack",
+	"title": "Expanse Pack",
+	"description": "A module containing an Expanse RPG compendium pack",
+	"author": "schlosrat",
+	"version": "0.1.0",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion":"0.7.9",
+	"packs": [
+		{
+			"name": "myscenes",
+			"label": "Scenes the players may want to explore",
+			"path": "packs/myscenes.db",
+			"entity": "Scene",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "myguys",
+			"label": "NPCs found in myscenes",
+			"path": "packs/myguys.db",
+			"entity": "Actor",
+			"module": "ExpansePack"
+		}
+	]
+}
