@@ -1,4 +1,4 @@
-###Expanse Compendia Pack
+##Expanse Compendia Pack
 
 This compendium pack includes the following AGE System specific compendia
 - Scenes
