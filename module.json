@@ -14,17 +14,24 @@
 	"readme": "https://github.com/schlosrat/expanse-pack/blob/master/README.md",
 	"packs": [
 		{
-			"name": "myscenes",
-			"label": "Scenes the players may want to explore",
-			"path": "packs/myscenes.db",
+			"name": "scenes",
+			"label": "Scenes",
+			"path": "packs/scenes.db",
 			"entity": "Scene",
 			"module": "ExpansePack"
 		},
 		{
-			"name": "myguys",
-			"label": "NPCs found in myscenes",
-			"path": "packs/myguys.db",
+			"name": "actors",
+			"label": "NPCs and Ships",
+			"path": "packs/actors.db",
 			"entity": "Actor",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "equipment",
+			"label": "Gear",
+			"path": "packs/equipment.db",
+			"entity": "Item",
 			"module": "ExpansePack"
 		}
 	]
