@@ -24,7 +24,8 @@ The Scenes included incorporate a mix of graphics and art found online with some
 - TBD
 ## Prometheus
 - TBD
-## Ships (Scenes and/or Deck Plans, for ships as Actors see Actors section below)
+## Ships (Scenes and/or Deck Plans)
+NOTE: For Ships as Actors see Actors section below
 - Abzu's Bounty
 - Medium Freighter
 - The Anne Bonny
