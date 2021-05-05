@@ -43,51 +43,28 @@ The Scenes included incorporate a mix of graphics and art found online with some
 # Actors
 ## NPCs
 These are NPCs are generic and not specific to any published material
+- Chief Engineer
+- Combat Drone - Small
+- Corporate Overseer
+- Corporate Security Goon
+- Elite Security Goon
+- Engineer's Mate
+- Ice Wrangler
+- Pirate
+- Pirate Captain
+- Remote Base Security Goon
+- Scientist
 - Scrub
-# Abzu's Bounty
-- Abzu's Bounty Engineer
-- Abzu's Bounty Ice Wrangler
-- Abzu's Bounty Technician
-- Ambusher (Vector Security)
-- Anne Bonny Crewmember
-- Bart Mitchel
-- Claire O'Rouke
-- Diana
-- Gabriel Olivera
-- Hector Cruz
-- Kat Kowalski
-- Raisa Arnova
-- Saveen Patel
-- Xin Reys
-# Rocinante
+- Ship's Pilot
+- Technician
+- Tycho Security
+### Rocinante
 - Alex Kamal
 - Amos Burton
 - Chrisjen Avasarala
 - James Holden
 - Naomi Nagata
 - Roberta "Bobbie" Draper
-# Salvage Op
-- Combat Drone
-# To Sleep Perchance To Dream
-- Corporate Overseer
-- Dr. Anna Bragenholm
-- Dr Matteo Cerri
-- Herculina Security Goon
-- Jay Chen
-- Liz Green
-- Mia Gallager
-- Nari Dreik
-- Overseener backup
-- Padro Gwong
-- Scientist
-- Tycho Security
-- Vector Security Goon
-
-## PCs - From Free QuickStart Material
-- Addison Grant
-- Casey Kahtri
-- Ford Prefect
-- Nico Valez
 
 ## Ships
 - Abzu's Bounty
@@ -251,6 +228,6 @@ The Items included are maily sourced from various fan sites and freely distrubut
 - UNTech TSG-4L
 
 # Credits
-Some of the token included are among the amazing and excellent free tokens graciously provided by Devin Tokens. You can find many more like these here: https://immortalnights.com/tokens/token-usage-rights/
+Some of the token included are among the amazing and excellent free tokens graciously provided by Devin Tokens. You can find many more like those here: https://immortalnights.com/tokens/token-usage-rights/
 
 All of the other tokens included in the pack were produced by me using Photoshop to create "coin" token images from character art found on the internet.
