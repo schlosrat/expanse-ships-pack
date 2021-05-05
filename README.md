@@ -8,7 +8,7 @@ This compendium pack includes the following AGE System specific compendia
 # Scenes
 The Scenes included incorporate a mix of graphics and art found online with some material created in DungeonDraft. Where appropriate the scenes incorporate walls, doors, windows, etc.
 ## General Scenes
-- Launch Screen scene (includes many ships)
+- Launch Screen scene (includes many ship tokens as examples)
 - Sol System Map
 ## 532 Herculina
 - Herculina Dock
@@ -24,7 +24,7 @@ The Scenes included incorporate a mix of graphics and art found online with some
 - TBD
 ## Prometheus
 - TBD
-## Ships
+## Ships (Scenes and/or Deck Plans, for ships as Actors see Actors section below)
 - Abzu's Bounty
 - Medium Freighter
 - The Anne Bonny
