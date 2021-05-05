@@ -11,7 +11,6 @@ The Scenes included incorporate a mix of graphics and art found online with some
 - Launch Screen scene (includes many ships)
 - Sol System Map
 ## 532 Herculina
-- Herculina
 - Herculina Dock
 ## Calisto
 - Calisto Station
@@ -24,7 +23,7 @@ The Scenes included incorporate a mix of graphics and art found online with some
 ## Mars
 - TBD
 ## Prometheus
-- Prometheus Warehouse
+- TBD
 ## Ships
 - Abzu's Bounty
 - Medium Freighter
