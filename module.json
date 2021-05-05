@@ -22,15 +22,15 @@
 		},
 		{
 			"name": "actors",
-			"label": "NPCs and Ships",
+			"label": "Actors",
 			"path": "packs/actors.db",
 			"entity": "Actor",
 			"module": "ExpansePack"
 		},
 		{
-			"name": "equipment",
-			"label": "Gear",
-			"path": "packs/equipment.db",
+			"name": "items",
+			"label": "Items",
+			"path": "packs/items.db",
 			"entity": "Item",
 			"module": "ExpansePack"
 		}
