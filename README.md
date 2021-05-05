@@ -1,31 +1,31 @@
-### Expanse Compendia Pack
+# Expanse Compendia Pack
 
 This compendium pack includes the following AGE System specific compendia
 - Scenes
-- NPCs and Ships
-- Gear
+- Actors
+- Items
 
-### Scenes
+# Scenes
 The Scenes included incorporate a mix of graphics and art found online with some material created in DungeonDraft. Where appropriate the scenes incorporate walls, doors, windows, etc.
-# General Scenes
+## General Scenes
 - Launch Screen scene (includes many ships)
 - Sol System Map
-# 532 Herculina
+## 532 Herculina
 - Herculina
 - Herculina Dock
-# Calisto
+## Calisto
 - Calisto Station
-# Ceres
+## Ceres
 - Ceres Station
-# Ganymede
+## Ganymede
 - TBD
-# Hygeia
+## Hygeia
 - Hygeia Station
-# Mars
+## Mars
 - TBD
-# Prometheus
+## Prometheus
 - Prometheus Warehouse
-# Ships
+## Ships
 - Abzu's Bounty
 - Medium Freighter
 - The Anne Bonny
@@ -33,15 +33,16 @@ The Scenes included incorporate a mix of graphics and art found online with some
 - The Ebenzer Hazard
 - The Picus
 - The Roci
-# Tycho Station
+## Tycho Station
 - Belter Bar
 - The Lonely Rockhoper
 - Tycho Docks
-# Vesta
+## Vesta
 - TBD
 
-### NPCs
-The NPCs are generic and not specific to any published material
+# Actors
+## NPCs
+These are NPCs are generic and not specific to any published material
 - Scrub
 # Abzu's Bounty
 - Abzu's Bounty Engineer
@@ -82,13 +83,13 @@ The NPCs are generic and not specific to any published material
 - Tycho Security
 - Vector Security Goon
 
-### PCs
+## PCs - From Free QuickStart Material
 - Addison Grant
 - Casey Kahtri
 - Ford Prefect
 - Nico Valez
 
-### Ships
+## Ships
 - Abzu's Bounty
 - Anne Bonny
 - Cervantes
@@ -130,8 +131,8 @@ The NPCs are generic and not specific to any published material
 - UNN Xerxes-Class Battleship
 - Windlass Breaching Pod
 
-### Gear
-The Gear included are maily sourced from various fan sites and freely distrubuted content released publicly
+# Items
+The Items included are maily sourced from various fan sites and freely distrubuted content released publicly
 ## Armor
 - Advanced Light Body Armor
 - Drone Armor
@@ -150,7 +151,7 @@ The Gear included are maily sourced from various fan sites and freely distrubute
 - Vac Suit
 - Vac Suit - Belter
 ## Ship Features
-# Flaw
+### Flaws
 - Bad Juice
 - Faulty System
 - Fragile
@@ -159,7 +160,7 @@ The Gear included are maily sourced from various fan sites and freely distrubute
 - Poor Amenities
 - Vulnerable Systems
 - Wanted
-# Qualities
+### Qualities
 - Advanced Sensor PAckage I
 - Advanced Sensor PAckage II
 - Advanced Sensor PAckage III
@@ -181,7 +182,7 @@ The Gear included are maily sourced from various fan sites and freely distrubute
 - Torpedos - Flechette Type
 - Torpedos - Nuclear (Nukes)
 - Torpedos - Plasma Type
-# Weapons
+### Weapons
 - Grappler Cannon
 - PDC - Bush Shipyards Hypercooled
 - PDC - Kess-Hashari
@@ -198,10 +199,10 @@ The Gear included are maily sourced from various fan sites and freely distrubute
 ## Tools
 - TBD
 ## Weapons
-# Explosives
+### Explosives
 - Flash Bang Grenade
 - Grenade
-# Melee
+### Melee
 - Club
 - Combat Knife
 - Knife
@@ -211,7 +212,7 @@ The Gear included are maily sourced from various fan sites and freely distrubute
 - Stun Baton
 - Unarmed
 - Unarmed (Striking Style)
-# Pistols
+### Pistols
 - BMM
 - Belter Pistol
 - MMC G1
@@ -223,7 +224,7 @@ The Gear included are maily sourced from various fan sites and freely distrubute
 - SMG-3
 - Taser
 - UNTech 9mm
-# Rifles
+### Rifles
 - AR200 Assault Rifle
 - Anti-Material Rifle
 - C7b Combat Rifle
@@ -240,7 +241,7 @@ The Gear included are maily sourced from various fan sites and freely distrubute
 - UNTech NV5
 - UNTech NV5c
 - VK-47
-# Shotguns
+### Shotguns
 - Kel-Tec KS7
 - MMC SSW
 - TriStar Compact Home Defense
@@ -249,4 +250,7 @@ The Gear included are maily sourced from various fan sites and freely distrubute
 - UNTech TSG-4
 - UNTech TSG-4L
 
-Numerous tokens and images for gear and scenes are included for you to build upon
+# Credits
+Some of the token included are among the amazing and excellent free tokens graciously provided by Devin Tokens. You can find many more like these here: https://immortalnights.com/tokens/token-usage-rights/
+
+All of the other tokens included in the pack were produced by me using Photoshop to create "coin" token images from character art found on the internet.
