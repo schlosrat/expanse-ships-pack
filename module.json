@@ -14,6 +14,48 @@
 	"readme": "https://github.com/schlosrat/expanse-pack/blob/master/README.md",
 	"packs": [
 		{
+			"name": "armor",
+			"label": "Armor",
+			"path": "packs/armor.db",
+			"entity": "Item",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "explosives",
+			"label": "Explosives",
+			"path": "packs/explosives.db",
+			"entity": "Item",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "melee",
+			"label": "Melee Weapons",
+			"path": "packs/melee.db",
+			"entity": "Item",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "npcs",
+			"label": "NPCs",
+			"path": "packs/npcs.db",
+			"entity": "Actor",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "pistols",
+			"label": "Pistols",
+			"path": "packs/pistols.db",
+			"entity": "Item",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "rifles",
+			"label": "Rifles",
+			"path": "packs/rifles.db",
+			"entity": "Item",
+			"module": "ExpansePack"
+		},
+		{
 			"name": "scenes",
 			"label": "Scenes",
 			"path": "packs/scenes.db",
@@ -21,16 +63,44 @@
 			"module": "ExpansePack"
 		},
 		{
-			"name": "actors",
-			"label": "Actors",
-			"path": "packs/actors.db",
+			"name": "ship-flaws",
+			"label": "Ship Flaws",
+			"path": "packs/ship-flaws.db",
+			"entity": "Item",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "ship-qualities",
+			"label": "Ship Qualities",
+			"path": "packs/ship-qualities.db",
+			"entity": "Item",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "ship-weapons",
+			"label": "Ship Weapons",
+			"path": "packs/ship-weapons.db",
+			"entity": "Item",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "ships",
+			"label": "Ships",
+			"path": "packs/ships.db",
 			"entity": "Actor",
 			"module": "ExpansePack"
 		},
 		{
-			"name": "items",
-			"label": "Items",
-			"path": "packs/items.db",
+			"name": "shotguns",
+			"label": "Shotguns",
+			"path": "packs/shotguns.db",
+			"entity": "Item",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "tools",
+			"label": "Tools",
+			"path": "packs/tools.db",
 			"entity": "Item",
 			"module": "ExpansePack"
 		}
