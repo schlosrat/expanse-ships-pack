@@ -1,3 +1,8 @@
+## 0.1.2 Pre-Release
+- Split the three compendia into thirteen separate compendia without any nested folders to eliminate module compatibility issue.
+- Removed some errant copyrighted material.
+- Added credit in README for Devin Tokens
+
 ## 0.1.1 Pre-Release
 - This version has greatly expanded content, but still no effort to minimize file sizes.
 

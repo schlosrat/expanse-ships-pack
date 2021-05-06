@@ -9,7 +9,6 @@ This compendium pack includes the following AGE System specific compendia
 The Scenes included incorporate a mix of graphics and art found online with some material created in DungeonDraft. Where appropriate the scenes incorporate walls, doors, windows, etc.
 ## General Scenes
 - Launch Screen scene (includes many ship tokens as examples)
-- Sol System Map
 ## 532 Herculina
 - Herculina Dock
 ## Calisto
@@ -36,13 +35,12 @@ NOTE: For Ships as Actors see Actors section below
 ## Tycho Station
 - Belter Bar
 - The Lonely Rockhoper
-- Tycho Docks
 ## Vesta
 - TBD
 
 # Actors
 ## NPCs
-These are NPCs are generic and not specific to any published material
+Generic NPCs not specific to any published material or module
 - Chief Engineer
 - Combat Drone - Small
 - Corporate Overseer
@@ -67,38 +65,33 @@ These are NPCs are generic and not specific to any published material
 - Roberta "Bobbie" Draper
 
 ## Ships
-- Abzu's Bounty
-- Anne Bonny
-- Cervantes
-- Construction Skiff
-- Dewalt
-- Ebenezer Hazzard
+### Grfeen Ronin Generics
+- Battleship
+- Cruiser
+- Destroyer
+- Drop Ship
 - Freighter
 - Frigate
-- Khonsu-class Shuttle
 - Large Freighter
+- Medium Freighter
+- Ships Boat
+- Shuttle
+- Small Freighter
+### MCRN
 - MCRN Chariot-Type Dropship
+- MCRN Corvette-Class
 - MCRN Donnager-Class Battleship
 - MCRN Heavy Frigate
 - MCRN Light Cruiser
 - MCRN Morrigan-Class Patrol Destroyer
 - MCRN Mosquito Breaching Pod
 - MCRN Scirocco-Class Assault Cruiser
-- Medium Freighter
+### OPA
+- Dewalt
 - Mowteng
 - OPA Breaching Pod
-- P&K Knight
-- Picus
-- RCE Heavy Lift Shuttle
-- RCE Light Shuttle
-- Razorback
-- Rocinante (Roci)
-- Rockhopper
-- Ships Boat
-- Shuttle
-- Small Freighter
-- Sommelier
 - Tynan
+### UNN
 - UN 1
 - UNN Breaching Pod
 - UNN L-Type Dropship
@@ -106,6 +99,21 @@ These are NPCs are generic and not specific to any published material
 - UNN M-Type Dropship
 - UNN Truman-Class Dreadnought
 - UNN Xerxes-Class Battleship
+### Commercial, etc.
+- Abzu's Bounty
+- Anne Bonny
+- Cervantes
+- Construction Skiff
+- Ebenezer Hazzard
+- Khonsu-class Shuttle
+- P&K Knight
+- Picus
+- RCE Heavy Lift Shuttle
+- RCE Light Shuttle
+- Razorback
+- Rocinante (Roci)
+- Rockhopper
+- Sommelier
 - Windlass Breaching Pod
 
 # Items
@@ -174,7 +182,7 @@ The Items included are maily sourced from various fan sites and freely distrubut
 - Torpedo Tube - Light
 - Torpedo Tube - Medium
 ## Tools
-- TBD
+- Many...
 ## Weapons
 ### Explosives
 - Flash Bang Grenade
