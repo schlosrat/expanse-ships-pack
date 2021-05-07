@@ -1,3 +1,8 @@
+## 0.1.3 Pre-Release
+- Cleaned up tokens and scenes where images references were mis-configured
+- Added some new ships and more ship tokens
+- Pulled out some copyrighted material that doesn't belong in this module
+
 ## 0.1.2 Pre-Release
 - Split the three compendia into thirteen separate compendia without any nested folders to eliminate module compatibility issue.
 - Removed some errant copyrighted material.

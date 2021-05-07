@@ -65,7 +65,7 @@ Generic NPCs not specific to any published material or module
 - Roberta "Bobbie" Draper
 
 ## Ships
-### Grfeen Ronin Generics
+### Green Ronin Generics
 - Battleship
 - Cruiser
 - Destroyer
@@ -78,6 +78,7 @@ Generic NPCs not specific to any published material or module
 - Shuttle
 - Small Freighter
 ### MCRN
+- MCRN Cervantes
 - MCRN Chariot-Type Dropship
 - MCRN Corvette-Class
 - MCRN Donnager-Class Battleship
@@ -91,6 +92,7 @@ Generic NPCs not specific to any published material or module
 - Mowteng
 - OPA Breaching Pod
 - Tynan
+- Zmaya
 ### UNN
 - UN 1
 - UNN Breaching Pod
@@ -99,22 +101,20 @@ Generic NPCs not specific to any published material or module
 - UNN M-Type Dropship
 - UNN Truman-Class Dreadnought
 - UNN Xerxes-Class Battleship
-### Commercial, etc.
-- Abzu's Bounty
-- Anne Bonny
-- Cervantes
-- Construction Skiff
-- Ebenezer Hazzard
+### Protogen
+- Amun-Ra-class Stealth Frigate
 - Khonsu-class Shuttle
+- Windlass Breaching Pod
+### Commercial, etc.
+- Arboghast (as a survey vessel)
+- Construction Skiff
+- Edward Israel
 - P&K Knight
-- Picus
+- Razorback
 - RCE Heavy Lift Shuttle
 - RCE Light Shuttle
-- Razorback
 - Rocinante (Roci)
 - Rockhopper
-- Sommelier
-- Windlass Breaching Pod
 
 # Items
 The Items included are maily sourced from various fan sites and freely distrubuted content released publicly
