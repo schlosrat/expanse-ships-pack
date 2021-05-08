@@ -84,37 +84,37 @@ Generic NPCs not specific to any published material or module
 - MCRN Donnager-Class Battleship (uses MCRN-Donnager-475.5m-token)
 - MCRN Heavy Frigate (uses MCRN-Heavy-Frigate-66m-token)
 - MCRN Light Cruiser (uses Pella-89m-token)
-- MCRN Morrigan-Class Patrol Destroyer (uses MCRN-Morigan-33.5m-token)
-- MCRN Mosquito Breaching Pod (uses UNN-Breaching-Pod-token)
+- MCRN Morrigan-Class Patrol Destroyer (uses MCRN-Morrigan-class-33.5m-token)
+- MCRN Mosquito Breaching Pod (uses UNN-Breaching-Pod-token ...close enough...)
 - MCRN Scirocco-Class Assault Cruiser (uses MCRN-Scirocco-200m-token)
 ### OPA
-- Dewalt
-- Mowteng
-- OPA Breaching Pod
-- Tynan
-- Zmaya
+- Dewalt (uses Dewalt-New-Version-53m-token)
+- Mowteng (uses Mowtang-48m-token)
+- OPA Breaching Pod (uses Y-Que-Slingshot-10.3m-token)
+- Tynan (uses Tynan-36m-token)
+- Zmaya (uses Zemya-61m-token)
 ### UNN
-- UN 1
-- UNN Breaching Pod
-- UNN L-Type Dropship
-- UNN Leonidas-Class Battleship
-- UNN M-Type Dropship
-- UNN Truman-Class Dreadnought
-- UNN Xerxes-Class Battleship
+- UN 1 (uses SpaceX-Trident-token)
+- UNN Breaching Pod (uses UNN-Breaching-Pod-token)
+- UNN L-Type Dropship (uses UNN-L-Type-Dropship-token)
+- UNN Leonidas-Class Battleship (uses Escort-ship-104m-token)
+- UNN M-Type Dropship (uses MCRN-Dropship-token - yes, I know that's an MCRN token...)
+- UNN Truman-Class Dreadnought (uses UNN-Agatha-King-376m-token)
+- UNN Xerxes-Class Battleship (uses UNN-Agatha-King-376m-token)
 ### Protogen
-- Amun-Ra-class Stealth Frigate
-- Khonsu-class Shuttle
-- Windlass Breaching Pod
+- Amun-Ra-class Stealth Frigate (uses Aman-Ra-class-61.5m-token)
+- Khonsu-class Shuttle (uses Guanshiyin-205m-token)
+- Windlass Breaching Pod (uses UNN-Breaching-Pod-token)
 ### Commercial, etc.
-- Arboghast (as a survey vessel)
-- Construction Skiff
-- Edward Israel
-- P&K Knight
-- Razorback
-- RCE Heavy Lift Shuttle
-- RCE Light Shuttle
-- Rocinante (Roci)
-- Rockhopper
+- Arboghast (uses MCRN-Stealth-Ship-83m-token  -- Yeah, I know; but hey it's a weird shape...)
+- Construction Skiff (uses Tycho-Construction-Skiff-13.4m-token)
+- Edward Israel (uses Tycho-Salvage-Ship-174m-token)
+- P&K Knight (uses Knight-3-token)
+- Razorback (uses Razonback-20m-token)
+- RCE Heavy Lift Shuttle (use Shandian-token)
+- RCE Light Shuttle (uses Hybrid-Pod-5m-token)
+- Rocinante (uses Rocinante-46m-token)
+- Rockhopper (uses Y-Que-Slingshot-10.3m-token)
 
 # Items
 The Items included are maily sourced from various fan sites and freely distrubuted content released publicly
