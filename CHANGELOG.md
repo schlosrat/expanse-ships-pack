@@ -1,3 +1,7 @@
+## 0.1.4 Pre-Release
+- Renamed ship and token graphics files to be more consistent. Updated ships and scenes accordingly
+- Added some new ships and more ship tokens
+
 ## 0.1.3 Pre-Release
 - Cleaned up tokens and scenes where images references were mis-configured
 - Added some new ships and more ship tokens
