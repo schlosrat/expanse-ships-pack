@@ -8,33 +8,33 @@ This compendium pack includes the following AGE System specific compendia
 # Scenes
 The Scenes included incorporate a mix of graphics and art found online with some material created in DungeonDraft. Where appropriate the scenes incorporate walls, doors, windows, etc.
 ## General Scenes
-- Launch Screen scene (includes many ship tokens as examples)
+- Launch Screen scene (General Scene: Includes many ship tokens as examples)
 ## 532 Herculina
-- Herculina Dock
+- Herculina Dock (General Scene)
 ## Calisto
-- Calisto Station
+- Calisto Station (General Scene)
 ## Ceres
-- Ceres Station
+- Ceres Station (General Scene)
 ## Ganymede
-- TBD
+- OPA Hideout (Battle Map)
 ## Hygeia
-- Hygeia Station
+- Hygeia Station (General Scene)
 ## Mars
 - TBD
 ## Prometheus
 - TBD
 ## Ships (Scenes and/or Deck Plans)
 NOTE: For Ships as Actors see Actors section below
-- Abzu's Bounty
-- Medium Freighter
-- The Anne Bonny
-- The Cervantes
-- The Ebenzer Hazard
-- The Picus
-- The Roci
+- Abzu's Bounty (General Scene - Requires Multilevel Tokens Module for full functionality)
+- Medium Freighter (General Scene with Deck Plans)
+- The Anne Bonny (Deck Plans - Requires Multilevel Tokens Module for full functionality)
+- The Cervantes (Deck Plans - Requires Multilevel Tokens Module for full functionality)
+- The Ebenzer Hazard (Deck Plans - Requires Multilevel Tokens Module for full functionality)
+- The Picus (Deck Plans - Requires Multilevel Tokens Module for full functionality)
+- The Roci (Deck Plans - Requires Multilevel Tokens Module for full functionality)
 ## Tycho Station
-- Belter Bar
-- The Lonely Rockhoper
+- Belter Bar (Battle Map)
+- The Lonely Rockhoper (Battle Map)
 ## Vesta
 - TBD
 
@@ -66,27 +66,27 @@ Generic NPCs not specific to any published material or module
 
 ## Ships
 ### Green Ronin Generics
-- Battleship
-- Cruiser
-- Destroyer
-- Drop Ship
-- Freighter
-- Frigate
-- Large Freighter
-- Medium Freighter
-- Ships Boat
-- Shuttle
-- Small Freighter
+- Battleship (uses MCRN-Donnager-475.5m-token)
+- Cruiser (uses Guanshiyin-205m-token)
+- Destroyer (uses MCRN-Barkeith-109m-token)
+- Drop Ship (uses UNN-L-Type-Dropship-token)
+- Freighter (uses Chetzemoka-75m-token)
+- Frigate (uses Escort-ship-104m-token)
+- Large Freighter (uses Canterbury-1000m-token)
+- Medium Freighter (uses Sulaiman-Al-Mahri-66m-token)
+- Ships Boat (uses Shandian-token)
+- Shuttle (uses Knight-3-token)
+- Small Freighter (uses Mowtang-48m-token)
 ### MCRN
-- MCRN Cervantes
-- MCRN Chariot-Type Dropship
-- MCRN Corvette-Class
-- MCRN Donnager-Class Battleship
-- MCRN Heavy Frigate
-- MCRN Light Cruiser
-- MCRN Morrigan-Class Patrol Destroyer
-- MCRN Mosquito Breaching Pod
-- MCRN Scirocco-Class Assault Cruiser
+- MCRN Cervantes (uses Cervantes-63m-token)
+- MCRN Chariot-Type Dropship (uses MCRN-Dropship-token)
+- MCRN Corvette-Class (uses Rocinante-46m-token)
+- MCRN Donnager-Class Battleship (uses MCRN-Donnager-475.5m-token)
+- MCRN Heavy Frigate (uses MCRN-Heavy-Frigate-66m-token)
+- MCRN Light Cruiser (uses Pella-89m-token)
+- MCRN Morrigan-Class Patrol Destroyer (uses MCRN-Morigan-33.5m-token)
+- MCRN Mosquito Breaching Pod (uses UNN-Breaching-Pod-token)
+- MCRN Scirocco-Class Assault Cruiser (uses MCRN-Scirocco-200m-token)
 ### OPA
 - Dewalt
 - Mowteng
