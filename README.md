@@ -42,7 +42,7 @@ NOTE: For Ships as Actors see Actors section below
 ## NPCs
 Generic NPCs not specific to any published material or module
 - Chief Engineer
-- Combat Drone - Small
+- Combat Drone (Small)
 - Corporate Overseer
 - Corporate Security Goon
 - Elite Security Goon
@@ -55,7 +55,7 @@ Generic NPCs not specific to any published material or module
 - Scrub
 - Ship's Pilot
 - Technician
-- Tycho Security
+- Station Security
 ### Rocinante
 - Alex Kamal
 - Amos Burton
