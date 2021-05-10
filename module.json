@@ -103,6 +103,13 @@
 			"path": "packs/tools.db",
 			"entity": "Item",
 			"module": "ExpansePack"
+		},
+		{
+			"name": "ship-notes",
+			"label": "Ship Notes",
+			"path": "packs/ship-notes.db",
+			"entity": "JournalEntry",
+			"module": "ExpansePack"
 		}
 	]
 }
