@@ -110,6 +110,13 @@
 			"path": "packs/ship-notes.db",
 			"entity": "JournalEntry",
 			"module": "ExpansePack"
+		},
+		{
+			"name": "npc-notes",
+			"label": "NPC Notes",
+			"path": "packs/npc-notes.db",
+			"entity": "JournalEntry",
+			"module": "ExpansePack"
 		}
 	]
 }
