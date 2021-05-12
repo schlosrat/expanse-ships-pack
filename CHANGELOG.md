@@ -1,10 +1,14 @@
+## 0.1.7 Initial Release
+- Added NPC Notes compendium
+- Removed focuses and talents form NPCs, replacing with guidance for what focuses and talents may be appropritate (this was in 0.1.5 but got was inadvertently reset in 0.1.6)
+
 ## 0.1.6 Beta Release
 - Updated ships to use journal entries
 - Simplified ship descriptions on the ship sheets
 - Edited journal entries to not where spoilers follow
 - Added scenes for vesta (docks) and Callisto (orbital shipyards)
 - Added more images in the map packs for additional variety
-- Added a luxury yacht ship[ (The Guanshiyin)
+- Added a luxury yacht ship (The Guanshiyin)
 - Updated token for the Protogen Khonsu-class shuttle
 - Made ship names more consistent
 - Updated README to reflect released changes, new scenes, revised ship names, etc.
