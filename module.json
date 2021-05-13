@@ -113,7 +113,7 @@
 		},
 		{
 			"name": "npc-notes",
-			"label": "NPC Notes",
+			"label": "Generic NPC Notes",
 			"path": "packs/npc-notes.db",
 			"entity": "JournalEntry",
 			"module": "ExpansePack"
