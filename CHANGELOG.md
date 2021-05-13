@@ -1,6 +1,6 @@
 ## 0.1.7 Initial Release
 - Added NPC Notes compendium
-- Removed focuses and talents form NPCs, replacing with guidance for what focuses and talents may be appropritate (this was in 0.1.5 but got was inadvertently reset in 0.1.6)
+- Removed focuses and talents form NPCs, replacing with guidance for what focuses and talents may be appropriate (this was in 0.1.5 but got was inadvertently reset in 0.1.6)
 
 ## 0.1.6 Beta Release
 - Updated ships to use journal entries
