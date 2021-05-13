@@ -6,6 +6,7 @@ This compendium pack includes the following AGE System specific compendia
 
 ## Ships
 ### Commercial, Civilian, etc.
+- Chetzemoka (uses Chetzemoka-75m-token)
 - Construction Skiff (uses Tycho-Construction-Skiff-13.4m-token)
 - Guanshiyin Yacht (uses Guanshiyin-205m-token)
 - P&K Knight (uses Knight-3-token)
@@ -15,20 +16,7 @@ This compendium pack includes the following AGE System specific compendia
 - RCE Light Shuttle (uses Hybrid-Pod-5m-token)
 - Rocinante (uses Rocinante-46m-token)
 - Rockhopper (uses Y-Que-Slingshot-10.3m-token)
-### Green Ronin Generics
-- Battleship (uses MCRN-Donnager-475.5m-token)
-- Cruiser (uses Guanshiyin-205m-token)
-- Destroyer (uses MCRN-Barkeith-109m-token)
-- Drop Ship (uses UNN-L-Type-Dropship-token)
-- Freighter (uses Chetzemoka-75m-token)
-- Frigate (uses Escort-ship-104m-token)
-- Large Freighter (uses Canterbury-1000m-token)
-- Medium Freighter (uses Sulaiman-Al-Mahri-66m-token)
-- Ships Boat (uses Shandian-token)
-- Shuttle (uses Knight-3-token)
-- Small Freighter (uses Mowtang-48m-token)
 ### MCRN
-- MCRN Cervantes (uses Cervantes-63m-token)
 - MCRN Chariot-Type Dropship (uses MCRN-Dropship-token)
 - MCRN Corvette-Class (uses Rocinante-46m-token)
 - MCRN Donnager-Class Battleship (uses MCRN-Donnager-475.5m-token)
@@ -49,6 +37,7 @@ This compendium pack includes the following AGE System specific compendia
 - Protogen Windlass Breaching Pod (uses UNN-Breaching-Pod-token)
 ### UNN
 - UN 1 (uses SpaceX-Trident-token)
+- UNN Amberjack (uses Golden-Baugh-66m-token)
 - UNN Arboghast (uses MCRN-Stealth-Ship-83m-token  -- Yeah, I know; but hey it's a weird shape...)
 - UNN Breaching Pod (uses UNN-Breaching-Pod-token)
 - UNN L-Type Dropship (uses UNN-L-Type-Dropship-token)
