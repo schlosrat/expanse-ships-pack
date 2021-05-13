@@ -69,6 +69,13 @@
 			"path": "packs/ship-scenes.db",
 			"entity": "Scene",
 			"module": "ExpanseShipsPack"
+		},
+		{
+			"name": "ship-notes",
+			"label": "Ship Notes",
+			"path": "packs/ship-notes.db",
+			"entity": "JournalEntry",
+			"module": "ExpanseShipsPack"
 		}
 	]
 }
