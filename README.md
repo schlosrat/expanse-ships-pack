@@ -10,22 +10,22 @@ The Scenes included incorporate a mix of graphics and art found online with some
 ## General Scenes
 - Launch Screen scene (General Scene: Includes many ship tokens as examples)
 ## 532 Herculina
-- Herculina Dock (General Scene)
+- Herculina Dock (Art courtesy Ashley McKenzie www.artstation.com/artist/noisecheck)
 ## Calisto
 - Calisto Station (General Scene)
 - Callisto Shipyards (General Scene)
 ## Ceres
-- Ceres Station (General Scene)
+- Ceres Station (Art courtesy of http://www.northfrontstudio.com/)
 ## Ganymede
 - OPA Hideout (Battle Map)
 ## Hygeia
 - Hygeia Station (General Scene)
 ## Luna
-- Lovell City (General Scene)
+- Lovell City (Art courtesy of http://www.northfrontstudio.com/)
 ## Mars
 - TBD
 ## Prometheus
-- Prometheus Base (General Scene)
+- Prometheus Base (Art courtesy of Arthur Yuan https://zcahcy0.artstation.com/)
 ## Ships (Scenes and/or Deck Plans)
 NOTE: For Ships as Actors see Actors section below
 - Abzu's Bounty (General Scene - Requires Multilevel Tokens Module for full functionality)
