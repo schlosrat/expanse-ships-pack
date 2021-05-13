@@ -24,6 +24,11 @@
 		  "type": "module"
 		},
 		{
+		  "name": "multilevel-tokens",
+		  "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json",
+		  "type": "module"
+		},
+		{
 			"name": "age-system",
 			"manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
 			"type": "system"
