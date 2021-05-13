@@ -12,6 +12,9 @@
 	"download": "https://github.com/schlosrat/expanse-ships-pack/archive/refs/tags/0.1.0.zip",
 	"changelog": "https://github.com/schlosrat/expanse-ships-pack/blob/master/CHANGELOG.md",
 	"readme": "https://github.com/schlosrat/expanse-ships-pack/blob/master/README.md",
+	"scripts": [
+		"scripts/scene-packer.js"
+	],
 	"dependencies": [
 		{
 			"name": "lib-wrapper",
@@ -32,8 +35,8 @@
 			"name": "age-system",
 			"manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
 			"type": "system"
-		  }
-		],
+		}
+	],
 	"packs": [
 		{
 			"name": "ship-flaws",
