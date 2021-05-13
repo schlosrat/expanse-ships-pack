@@ -1,64 +1,8 @@
-# Expanse Compendia Pack
+# Expanse Ships Pack
 
 This compendium pack includes the following AGE System specific compendia
-- Scenes
-- Actors
-- Items
-
-# Scenes
-The Scenes included incorporate a mix of graphics and art found online with some material created in DungeonDraft. Where appropriate the scenes incorporate walls, doors, windows, etc.
-## General Scenes
-- Launch Screen scene (General Scene: Includes many ship tokens as examples)
-## 532 Herculina
-- Herculina Dock (Art courtesy Ashley McKenzie www.artstation.com/artist/noisecheck)
-## Calisto
-- Calisto Station (General Scene)
-- Callisto Shipyards (General Scene)
-## Ceres
-- Ceres Station (Art courtesy of http://www.northfrontstudio.com/)
-## Ganymede
-- OPA Hideout (Battle Map)
-## Hygeia
-- Hygeia Station (General Scene)
-## Luna
-- Lovell City (Art courtesy of http://www.northfrontstudio.com/)
-## Mars
-- TBD
-## Prometheus
-- Prometheus Base (Art courtesy of Arthur Yuan https://zcahcy0.artstation.com/)
-## Ships (Scenes and/or Deck Plans)
-NOTE: For Ships as Actors see Actors section below
-- Abzu's Bounty (General Scene - Requires Multilevel Tokens Module for full functionality)
-- Medium Freighter (General Scene with Deck Plans)
-- The Anne Bonny (Deck Plans - Requires Multilevel Tokens Module for full functionality)
-- The Cervantes (Deck Plans - Requires Multilevel Tokens Module for full functionality)
-- The Ebenezer Hazard (Deck Plans - Requires Multilevel Tokens Module for full functionality)
-- The Picus (Deck Plans - Requires Multilevel Tokens Module for full functionality)
-- The Roci (Deck Plans - Requires Multilevel Tokens Module for full functionality)
-## Tycho Station
-- Belter Bar (Battle Map)
-- The Lonely Rockhoper (Battle Map)
-## Vesta
-- Vesta Dock (General Scene)
-
-# Actors
-## NPCs
-Generic NPCs not specific to any published material or module
-- Chief Engineer
-- Combat Drone (Small)
-- Corporate Overseer
-- Corporate Security Goon
-- Elite Security Goon
-- Engineer's Mate
-- Ice Wrangler
-- Pirate
-- Pirate Captain
-- Remote Base Security Goon
-- Scientist
-- Scrub
-- Ship's Pilot
-- Technician
-- Station Security
+- Ships (Actors)
+- Ship Features (Items)
 
 ## Ships
 ### Commercial, Civilian, etc.
@@ -113,25 +57,6 @@ Generic NPCs not specific to any published material or module
 - UNN Truman-Class Dreadnought (uses UNN-Agatha-King-376m-token)
 - UNN Xerxes-Class Battleship (uses UNN-Agatha-King-376m-token)
 
-# Items
-The Items included are maily sourced from various fan sites and freely distrubuted content released publicly
-## Armor
-- Advanced Light Body Armor
-- Drone Armor
-- Environment Suit
-- Form-Fitting Vac Suit
-- Heavy Body Armor
-- Leviathan Combat Suit
-- Light Body Armor
-- Medium Body Armor
-- Padding (Armor)
-- Powered Armor
-- Powered Armor - Goliath
-- Powered Armor - Reaver
-- Shield, Ballistic
-- Shield, Riot
-- Vac Suit
-- Vac Suit - Belter
 ## Ship Features
 ### Flaws
 - Bad Juice
@@ -178,61 +103,5 @@ The Items included are maily sourced from various fan sites and freely distrubut
 - Torpedo Tube - Heavy
 - Torpedo Tube - Light
 - Torpedo Tube - Medium
-## Tools
-- Many...
-## Weapons
-### Explosives
-- Flash Bang Grenade
-- Grenade
-### Melee
-- Club
-- Combat Knife
-- Knife
-- Knuckle Dusters
-- Light Chain
-- Makeshift Weapon
-- Stun Baton
-- Unarmed
-- Unarmed (Striking Style)
-### Pistols
-- BMM
-- Belter Pistol
-- MMC G1
-- Oni Pistol
-- Pistol
-- SH-45
-- SMG-1
-- SMG-2
-- SMG-3
-- Taser
-- UNTech 9mm
-### Rifles
-- AR200 Assault Rifle
-- Anti-Material Rifle
-- C7b Combat Rifle
-- Light Machinegun
-- M76
-- MMC APS
-- MMC APSc
-- MMC MCR
-- MMC MCRc
-- Mounted Guns (drone)
-- UNMC Sniper
-- UNTech NV4
-- UNTech NV4c
-- UNTech NV5
-- UNTech NV5c
-- VK-47
-### Shotguns
-- Kel-Tec KS7
-- MMC SSW
-- TriStar Compact Home Defense
-- UNTech RSG
-- UNTech RSG-L
-- UNTech TSG-4
-- UNTech TSG-4L
 
-# Credits
-Some of the token included are among the amazing and excellent free tokens graciously provided by Devin Tokens. You can find many more like those here: https://immortalnights.com/tokens/token-usage-rights/
-
-All of the other tokens included in the pack were produced by me using Photoshop to create "coin" token images from character art found on the internet.
+All of the ship tokens included in the pack were produced by me using Photoshop to create grayscale (B&W) token images with transparent backgrounds from art found on the Expanse Fandom Wiki (https://expanse.fandom.com/wiki/The_Expanse_Wiki).
