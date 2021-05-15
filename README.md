@@ -93,4 +93,4 @@ This compendium pack includes the following AGE System specific compendia
 - Torpedo Tube - Light
 - Torpedo Tube - Medium
 
-All of the ship tokens included in the pack were produced by me using Photoshop to create grayscale (B&W) token images with transparent backgrounds from art found on the Expanse Fandom Wiki (https://expanse.fandom.com/wiki/The_Expanse_Wiki).
+All of the ship tokens included in the pack were produced by me using Photoshop to create grayscale (B&W) token images with transparent backgrounds.
