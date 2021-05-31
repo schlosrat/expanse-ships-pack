@@ -16,21 +16,16 @@
 		"scripts/scene-packer.js"
 	],
 	"dependencies": [
-		//{
-		//	"name": "lib-wrapper",
-		//	"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
-		//	"type": "module"
-		//},
+		{
+			"name": "lib-wrapper",
+			"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+			"type": "module"
+		},
 		{
 		  "name": "scene-packer",
 		  "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
 		  "type": "module"
 		},
-		//{
-		//  "name": "multilevel-tokens",
-		//  "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json",
-		//  "type": "module"
-		//},
 		{
 			"name": "age-system",
 			"manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
