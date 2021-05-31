@@ -6,7 +6,7 @@
 	"version": "0.1.0",
 	"system": "age-system",
 	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion":"0.8.5",
+	"compatibleCoreVersion":"0.8.6",
 	"url": "https://github.com/schlosrat/expanse-ships-pack",
 	"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-ships-pack/master/module.json",
 	"download": "https://github.com/schlosrat/expanse-ships-pack/archive/refs/tags/0.1.0.zip",
@@ -16,21 +16,21 @@
 		"scripts/scene-packer.js"
 	],
 	"dependencies": [
-		{
-			"name": "lib-wrapper",
-			"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
-			"type": "module"
-		},
+		//{
+		//	"name": "lib-wrapper",
+		//	"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+		//	"type": "module"
+		//},
 		{
 		  "name": "scene-packer",
 		  "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
 		  "type": "module"
 		},
-		{
-		  "name": "multilevel-tokens",
-		  "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json",
-		  "type": "module"
-		},
+		//{
+		//  "name": "multilevel-tokens",
+		//  "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json",
+		//  "type": "module"
+		//},
 		{
 			"name": "age-system",
 			"manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
