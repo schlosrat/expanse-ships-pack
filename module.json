@@ -6,7 +6,7 @@
 	"version": "0.1.0",
 	"system": "age-system",
 	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion":"0.8.7",
+	"compatibleCoreVersion":"9",
 	"url": "https://github.com/schlosrat/expanse-ships-pack",
 	"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-ships-pack/master/module.json",
 	"download": "https://github.com/schlosrat/expanse-ships-pack/archive/refs/tags/0.1.0.zip",
