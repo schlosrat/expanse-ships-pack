@@ -1,79 +1,102 @@
 {
-	"name": "expanse-ships-pack",
-	"title": "Expanse Ships Pack",
-	"description": "Ships from the Expanse books and TV show for use in Foundry VTT with the AGE System (unofficial)",
-	"author": "schlosrat",
-	"version": "0.1.0",
-	"system": "age-system",
-	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion":"9",
-	"url": "https://github.com/schlosrat/expanse-ships-pack",
-	"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-ships-pack/master/module.json",
-	"download": "https://github.com/schlosrat/expanse-ships-pack/archive/refs/tags/0.1.0.zip",
-	"changelog": "https://github.com/schlosrat/expanse-ships-pack/blob/master/CHANGELOG.md",
-	"readme": "https://github.com/schlosrat/expanse-ships-pack/blob/master/README.md",
-	"scripts": [
-		"scripts/scene-packer.js"
-	],
-	"dependencies": [
-		{
-			"name": "lib-wrapper",
-			"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
-			"type": "module"
-		},
-		{
-		  "name": "scene-packer",
-		  "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-		  "type": "module"
-		},
-		{
-			"name": "age-system",
-			"manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
-			"type": "system"
-		}
-	],
-	"packs": [
-		{
-			"name": "ship-flaws",
-			"label": "Ship Flaws",
-			"path": "packs/ship-flaws.db",
-			"entity": "Item",
-			"module": "ExpanseShipsPack"
-		},
-		{
-			"name": "ship-qualities",
-			"label": "Ship Qualities",
-			"path": "packs/ship-qualities.db",
-			"entity": "Item",
-			"module": "ExpanseShipsPack"
-		},
-		{
-			"name": "ship-weapons",
-			"label": "Ship Weapons",
-			"path": "packs/ship-weapons.db",
-			"entity": "Item",
-			"module": "ExpanseShipsPack"
-		},
-		{
-			"name": "ships",
-			"label": "Ships",
-			"path": "packs/ships.db",
-			"entity": "Actor",
-			"module": "ExpanseShipsPack"
-		},
-		{
-			"name": "ship-scenes",
-			"label": "Ship Scenes",
-			"path": "packs/ship-scenes.db",
-			"entity": "Scene",
-			"module": "ExpanseShipsPack"
-		},
-		{
-			"name": "ship-notes",
-			"label": "Ship Notes",
-			"path": "packs/ship-notes.db",
-			"entity": "JournalEntry",
-			"module": "ExpanseShipsPack"
-		}
-	]
+  "title": "Expanse Ships Pack",
+  "description": "Ships from the Expanse books and TV show for use in Foundry VTT with the AGE System (unofficial)",
+  "version": "0.1.0",
+  "url": "https://github.com/schlosrat/expanse-ships-pack",
+  "manifest": "https://raw.githubusercontent.com/schlosrat/expanse-ships-pack/master/module.json",
+  "download": "https://github.com/schlosrat/expanse-ships-pack/archive/refs/tags/0.1.0.zip",
+  "changelog": "https://github.com/schlosrat/expanse-ships-pack/blob/master/CHANGELOG.md",
+  "readme": "https://github.com/schlosrat/expanse-ships-pack/blob/master/README.md",
+  "scripts": [
+    "scripts/scene-packer.js"
+  ],
+  "packs": [
+    {
+      "name": "ship-flaws",
+      "label": "Ship Flaws",
+      "path": "packs/ship-flaws.db",
+      "type": "Item",
+      "private": false,
+      "system": "age-system",
+      "flags": {}
+    },
+    {
+      "name": "ship-qualities",
+      "label": "Ship Qualities",
+      "path": "packs/ship-qualities.db",
+      "type": "Item",
+      "private": false,
+      "system": "age-system",
+      "flags": {}
+    },
+    {
+      "name": "ship-weapons",
+      "label": "Ship Weapons",
+      "path": "packs/ship-weapons.db",
+      "type": "Item",
+      "private": false,
+      "system": "age-system",
+      "flags": {}
+    },
+    {
+      "name": "ships",
+      "label": "Ships",
+      "path": "packs/ships.db",
+      "type": "Actor",
+      "private": false,
+      "system": "age-system",
+      "flags": {}
+    },
+    {
+      "name": "ship-scenes",
+      "label": "Ship Scenes",
+      "path": "packs/ship-scenes.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "ship-notes",
+      "label": "Ship Notes",
+      "path": "packs/ship-notes.db",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "id": "expanse-ships-pack",
+  "authors": [
+    {
+      "name": "schlosrat",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "age-system",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "0.6.0",
+    "verified": "9"
+  }
 }
