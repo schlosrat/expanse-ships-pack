@@ -57,13 +57,13 @@ This compendium pack includes the following AGE System specific compendia
 - Vulnerable Systems
 - Wanted
 ### Qualities
-- Advanced Sensor PAckage I
-- Advanced Sensor PAckage II
-- Advanced Sensor PAckage III
+- Advanced Sensor Package I
+- Advanced Sensor Package II
+- Advanced Sensor Package III
 - Good Juice
 - Hanger Bay
 - Hidden Compartments
-- Highliy Maneuverable
+- Highly Maneuverable
 - Hull Plating I
 - Hull Plating II
 - Hull Plating III
@@ -84,7 +84,7 @@ This compendium pack includes the following AGE System specific compendia
 - PDC - Kess-Hashari
 - PDC - Mikazuki Munitions
 - PDC - Nariman Dynamics 40 mm
-- PDC - Redfield Ballisitcs 40 mm
+- PDC - Redfield Ballistics 40 mm
 - Rail Gun - Farren-Patten
 - Rail Gun - S24 Khopesh
 - Rail Gun - V-14 Stiletto
